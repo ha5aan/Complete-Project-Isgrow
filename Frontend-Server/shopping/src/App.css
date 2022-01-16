@@ -1,0 +1,9 @@
+.Cards{
+  display: inline-block;
+  margin: 20px;
+  padding: auto;
+}
+
+img{
+height: 300px;
+}
